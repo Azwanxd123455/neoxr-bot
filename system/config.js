@@ -1,5 +1,5 @@
 // Owner number
-global.owner = '6281210334790'
+global.owner = '6288373639292'
 // Owner name
 global.owner_name = 'azwan syahidan'
 // Database name (Default: database)
